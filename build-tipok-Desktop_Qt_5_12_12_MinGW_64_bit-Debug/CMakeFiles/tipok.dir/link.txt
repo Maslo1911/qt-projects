@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\tipok.dir/objects.a
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\tipok.dir/objects.a @CMakeFiles\tipok.dir\objects1.rsp
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\tipok.dir/objects.a -Wl,--no-whole-archive -o tipok.exe -Wl,--out-implib,libtipok.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tipok.dir\linkLibs.rsp

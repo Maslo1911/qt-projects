@@ -1,0 +1,4 @@
+D:/qt projects/build-tipok-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/tipok.dir
+D:/qt projects/build-tipok-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/qt projects/build-tipok-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/qt projects/build-tipok-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/tipok_autogen.dir
