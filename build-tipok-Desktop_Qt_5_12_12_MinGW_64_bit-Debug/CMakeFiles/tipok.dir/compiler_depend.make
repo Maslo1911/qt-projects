@@ -376,6 +376,7 @@ CMakeFiles/tipok.dir/mainwindow.cpp.obj: D:/qt\ projects/tipok/mainwindow.cpp \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QMainWindow \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QMenuBar \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QPushButton \
+  C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QRadioButton \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QStatusBar \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QWidget \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qabstractbutton.h \
@@ -389,6 +390,7 @@ CMakeFiles/tipok.dir/mainwindow.cpp.obj: D:/qt\ projects/tipok/mainwindow.cpp \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qmenu.h \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qmenubar.h \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qpushbutton.h \
+  C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qradiobutton.h \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qstatusbar.h \
   C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qtabwidget.h \
@@ -474,6 +476,7 @@ CMakeFiles/tipok.dir/mainwindow.cpp.obj: D:/qt\ projects/tipok/mainwindow.cpp \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cerrno \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/chrono \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/clocale \
+  C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cmath \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cstddef \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cstdint \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cstdio \
@@ -500,6 +503,7 @@ CMakeFiles/tipok.dir/mainwindow.cpp.obj: D:/qt\ projects/tipok/mainwindow.cpp \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/limits \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/list \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/map \
+  C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/math.h \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/new \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/numeric \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/ostream \
@@ -545,6 +549,7 @@ CMakeFiles/tipok.dir/mainwindow.cpp.obj: D:/qt\ projects/tipok/mainwindow.cpp \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/limits.h \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/locale.h \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/math.h \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/process.h \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/pthread.h \
   C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/pthread_compat.h \
@@ -871,6 +876,8 @@ C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
 C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/pthread_compat.h:
 
 C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtGui/qcolor.h:
+
+C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QRadioButton:
 
 C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
 
@@ -1434,7 +1441,15 @@ C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qlabel.h:
 
 C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qmenu.h:
 
+C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qradiobutton.h:
+
 C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qstatusbar.h:
+
+C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cmath:
+
+C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/math.h:
+
+C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/math.h:
 
 tipok_autogen/mocs_compilation.cpp:
 

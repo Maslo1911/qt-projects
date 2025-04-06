@@ -20,6 +20,18 @@ private slots:
 
     void on_pushButton_mul_clicked();
 
+    void on_pushButton_sin_clicked();
+
+    void on_pushButton_cos_clicked();
+
+    void on_pushButton_tan_clicked();
+
+    void on_pushButton_cot_clicked();
+
+    void on_pushButton_arcsin_clicked();
+
+    void on_pushButton_arccos_clicked();
+
 private:
     Ui::MainWindow *ui;
 };

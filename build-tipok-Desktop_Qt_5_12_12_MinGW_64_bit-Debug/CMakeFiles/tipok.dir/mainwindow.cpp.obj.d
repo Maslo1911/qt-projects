@@ -299,4 +299,7 @@ CMakeFiles/tipok.dir/mainwindow.cpp.obj: \
  C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QStatusBar \
  C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qstatusbar.h \
  C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/QWidget \
- C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qwidget.h
+ C:/Qt/Qt5.12.12/5.12.12/mingw73_64/include/QtWidgets/qwidget.h \
+ C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/math.h \
+ C:/Qt/Qt5.12.12/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/cmath \
+ C:/Qt/Qt5.12.12/Tools/mingw730_64/x86_64-w64-mingw32/include/math.h
