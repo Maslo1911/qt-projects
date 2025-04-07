@@ -51,6 +51,10 @@ public:
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QString::fromUtf8("MainWindow"));
         MainWindow->resize(702, 367);
+        MainWindow->setMinimumSize(QSize(702, 367));
+        MainWindow->setMaximumSize(QSize(702, 367));
+        MainWindow->setDockNestingEnabled(false);
+        MainWindow->setDockOptions(QMainWindow::AnimatedDocks);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         lineEdit_value_1 = new QLineEdit(centralwidget);
